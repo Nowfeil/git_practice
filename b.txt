@@ -1,0 +1,1 @@
+echo <msg in string> >> filename.txt
